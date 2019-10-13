@@ -80,8 +80,8 @@
     }
 
     input{
-        background: #eee;
         border: none;
+        border-bottom: 1px solid #ff4b2b;
         padding: 6px 10px;
         margin: 4px 0px;
         width: 100%;
@@ -316,8 +316,8 @@ form {
 }
 
 input {
-    background-color: #eee;
     border: none;
+    border-bottom: 1px solid #ff4b2b;
     padding: 12px 15px;
     margin: 8px 0;
     width:auto;
